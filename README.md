@@ -4,12 +4,6 @@
 - 🌱 Currently **exploring into the field of Generative AI**  
 - 🚀 Enthusiastic about AI, Deep Learning, and Data Analytics   
 - 🎓 Senior Computer Science student at **Habib University**  
-## 🔗 Connect with me:  
-<p align="left">
-<a href="https://linkedin.com/in/rania-siddiqui-79517a280" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:raniasiddiqui002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
-<a href="https://github.com/raniasiddiqui"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github"></a>
-</p>
 
 ---
 
@@ -33,7 +27,7 @@
 
 ---
 
-### 🚀 Let's Connect!
+## 🚀 Let's Connect!
 📩 **Email**: [raniasiddiqui002@gmail.com](mailto:raniasiddiqui002@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/rania-siddiqui-79517a280](https://linkedin.com/in/rania-siddiqui-79517a280)  
 💻 **GitHub**: [github.com/raniasiddiqui](https://github.com/raniasiddiqui)  
