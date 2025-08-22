@@ -3,7 +3,7 @@
 
 - 🌱 Currently **exploring into the field of Generative AI**  
 - 🚀 Enthusiastic about AI, Deep Learning, and Data Analytics   
-- 🎓 Senior Computer Science student at **Habib University**  
+- 🎓 Computer Science graduate from **Habib University**  
 
 ---
 
