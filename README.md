@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rania Siddiqui</h1>
-<h3 align="center">A Passionate Computer Science Senior from Pakistan</h3>
+<h3 align="center">A Passionate Computer Science Graduate from Pakistan</h3>
 
 - 🌱 Currently **exploring into the field of Generative AI**  
 - 🚀 Enthusiastic about AI, Deep Learning, and Data Analytics   
